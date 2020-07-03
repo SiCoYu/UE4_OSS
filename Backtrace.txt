@@ -1,0 +1,16 @@
+1>[BacktracePostBuild] Option: send_debug = true
+1>[BacktracePostBuild] Option: send_release = true
+1>[BacktracePostBuild] Option: upload_editor = true
+1>[BacktracePostBuild] Option: cmd = ruby C:/Users/ADMINI~1/AppData/Local/Temp/ibBE83AD/0/ocr3475.tmp/src/backtrace_post_build.rb --token=bef0161bc5cfc73f6dadec0a6a4b1baba305da85af44467b688de78de877561a --send_debug=True --send_release=True --realm=scp3501 --symbols_token=your symbols token --engine_dir=F:\UEWorkPlace\UnrealEngine\UE424\UnrealEngine\Engine --project_dir=F:\UEWorkPlace\ProjectX --target_name=ProjectXEditor --target_configuration=Development --target_type=Editor --project_file=F:\UEWorkPlace\ProjectX\ProjectX.uproject
+1>[BacktracePostBuild] Option: token = bef0161bc5cfc73f6dadec0a6a4b1baba305da85af44467b688de78de877561a
+1>[BacktracePostBuild] Option: realm = scp3501
+1>[BacktracePostBuild] Option: symbols_token = your
+1>[BacktracePostBuild] Option: engine_dir = F:/UEWorkPlace/UnrealEngine/UE424/UnrealEngine/Engine
+1>[BacktracePostBuild] Option: project_dir = F:/UEWorkPlace/ProjectX
+1>[BacktracePostBuild] Option: target_name = ProjectXEditor
+1>[BacktracePostBuild] Option: target_configuration = Development
+1>[BacktracePostBuild] Option: target_type = Editor
+1>[BacktracePostBuild] Option: project_file = F:\UEWorkPlace\ProjectX\ProjectX.uproject
+1>[BacktracePostBuild] Debug build: true
+1>[BacktracePostBuild] Zip file: F:\UEWorkPlace\ProjectX\symbols.zip
+1>[BacktracePostBuild] Staged dirs: WindowsNoEditor
